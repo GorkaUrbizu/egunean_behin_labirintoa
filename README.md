@@ -1,7 +1,7 @@
 # Egunean behin laberintoa
 Laberinto bat ausaz sortuko da, ertz bakoitzak kolore bat izango du (koloreekin gehiengoarentzat problema errazten den arren, erantzunetan IE, HE, IM eta HM etiketen laguntzak jarriko dira ikusmen hurritasunen bat dutenek galdera erantzun dezaten), eta lau ertzetako batetik abiatuta, beste ertz bakarrerako bidea egongo da, jokalariak hura topatu beharko du. 
 
-![Adibide irudia](https://github.com/gorka_96/egunean_behin_labirintoa/maze.svg)
+![Adibide irudia](https://github.com/gorka96/egunean_behin_labirintoa/master/maze.svg)
 
 Ertz berdetik (I-M) abiatuta topatu gertueneko irteera.: [Irudia 600x400, svg formatuan]
 
