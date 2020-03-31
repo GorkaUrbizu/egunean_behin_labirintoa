@@ -1,5 +1,5 @@
-# Egunean behin laberintoa
-Laberinto bat ausaz sortuko da, ertz bakoitzak kolore bat izango du (koloreekin gehiengoarentzat problema errazten den arren, erantzunetan IE, HE, IM eta HM etiketen laguntzak jarriko dira ikusmen hurritasunen bat dutenek galdera erantzun dezaten), eta lau ertzetako batetik abiatuta, beste ertz bakarrerako bidea egongo da, jokalariak hura topatu beharko du. 
+# Egunean behin labirintoa
+Labirinto bat ausaz sortuko da, ertz bakoitzak kolore bat izango du (koloreekin gehiengoarentzat problema errazten den arren, erantzunetan IE, HE, IM eta HM etiketen laguntzak jarriko dira ikusmen hurritasunen bat dutenek galdera erantzun dezaten), eta lau ertzetako batetik abiatuta, beste ertz bakarrerako bidea egongo da, jokalariak hura topatu beharko du. 
 
 ![Adibide irudia](https://github.com/gorka96/egunean_behin_labirintoa/blob/master/maze.svg)
 
@@ -13,7 +13,7 @@ horrela, nahi adina galdera sor litezke.
 
 Hobekuntza posibleak:
 
-nahi izanez gero, laberintoaren tamaina ere handitu daiteke, galderaren zailtasuna handitzeko (tamaina handitzearekin batera, puntuen kokapena eta tamaina egokitu behar da.)
+nahi izanez gero, labirintoaren tamaina ere handitu daiteke, galderaren zailtasuna handitzeko (tamaina handitzearekin batera, puntuen kokapena eta tamaina egokitu behar da.)
 
 Ulermena erraztearren, beti ertz berdinetik hasiko gara, honek erantzuna topatzea erraztuko luke. Hau kendu liteke, zailtasuna haunditzeko.
 
