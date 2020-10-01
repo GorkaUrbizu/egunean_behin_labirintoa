@@ -21,7 +21,7 @@ Ulermena erraztearren, beti ertz berdinetik hasiko gara, honek erantzuna topatze
 
 
 Irudiak png formatuan nahiko balira, hau egin liteke linuxen:
-
+```
 inkscape -z -e out.png -w 600 -h 400 maze.svg
-
+```
 bestalde, kodean aldaketa txikiren bat sortu beharko litzateke.
