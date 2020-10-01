@@ -1,4 +1,9 @@
 # Egunean behin labirintoa
+
+```
+python laberintoenIrudiTaGalderakSortu.py
+```
+
 Labirinto bat ausaz sortuko da, ertz bakoitzak kolore bat izango du (koloreekin gehiengoarentzat problema errazten den arren, erantzunetan IE, HE, IM eta HM etiketen laguntzak jarriko dira ikusmen hurritasunen bat dutenek galdera erantzun dezaten), eta lau ertzetako batetik abiatuta, beste ertz bakarrerako bidea egongo da, jokalariak hura topatu beharko du. 
 
 ![Adibide irudia](https://github.com/gorka96/egunean_behin_labirintoa/blob/master/maze.svg)
@@ -6,7 +11,9 @@ Labirinto bat ausaz sortuko da, ertz bakoitzak kolore bat izango du (koloreekin 
 Ertz berdetik (I-M) abiatuta topatu gertueneko irteera.: [Irudia 600x400, svg formatuan]
 
 -Urdina (I-E)
+
 -Gorria (H-M) (Z)
+
 -Horia (H-E)
 
 horrela, nahi adina galdera sor litezke.
